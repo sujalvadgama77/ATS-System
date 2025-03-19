@@ -19,7 +19,7 @@ ATS System is a Flutter-based application designed to manage contracts and servi
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ats_system.git
+   git clone https://github.com/sujalvadgama/ATS-System.git
    cd ats_system
    ```
 2. Install dependencies:
@@ -45,6 +45,7 @@ ATS System is a Flutter-based application designed to manage contracts and servi
 - android/ : Android-specific files
 - ios/ : iOS-specific files
 - test/ : Unit and widget tests
+
 ## Dependencies
 The project uses the following dependencies:
 
@@ -62,6 +63,7 @@ The project uses the following dependencies:
 - image_picker : Image selection
 - pdf : PDF generation
 - printing : Printing support
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
@@ -69,7 +71,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any inquiries or support, please contact your-email@example.com .
+For any inquiries or support, please contact mrvadgamas@gmail.com
 
 ```plaintext
 
